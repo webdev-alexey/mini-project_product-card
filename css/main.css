@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: #7c8d9c;
+  background-color: #efefef;
+}
+
+.card-details {
+  width: 540px;
+  height: 700px;
+  background-color: #fff;
+  padding-top: 75px;
+  padding-left: 80px;
+  padding-bottom: 75px;
+  padding-right: 20px;
+}
+
+.title-1 {
+  color: black;
+  font-size: 34px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  color: #3a4d5c;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.features-title {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.33px;
+  margin-bottom: 20px;
+}
+
+.list {
+  font-size: 13px;
+  line-height: 28px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+.details {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.28px;
+  margin-bottom: 30px;
+}
+
+.details-item {
+  margin-right: 20px;
+}
+
+.quantity {
+  font-size: 11px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.counter {
+  display: flex;
+  margin-left: 1;
+  margin-bottom: 30px;
+}
+
+.counter-button {
+  width: 40px;
+  height: 35px;
+  border: 1px solid #7c8d9c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -1px;
+}
+
+.price-wrapper {
+  margin-bottom: 30px;
+}
+
+.price {
+  color: #3a4d5c;
+  font-size: 37px;
+}
+
+.old-price {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.button {
+  width: 200px;
+  height: 45px;
+  background-color: #1251d1;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  border: none;
+  margin-right: 20px;
+}
+
+.button-wish-list {
+  width: 200px;
+  height: 45px;
+  border: 1px solid #7c8d9c;
+  background-color: #fff;
+  color: #7c8d9c;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
